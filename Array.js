@@ -1,4 +1,4 @@
-var arr1 = [10,20,30,40,50,60]
+var arr1 = [10,20,30,40,50.45,60,true,'Kod',{name:'Priya',age:45},()=>{console.log['Function']}, [100,200]]
 console.log('The length of arr1 array:',arr1.length);
 console.log('Element at 0th index:',arr1[0]);
 console.log('Element at 1st index:',arr1[1]);
